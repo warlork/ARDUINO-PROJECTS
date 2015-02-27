@@ -1,2 +1,2 @@
 # Ceng604
-Humber SChool PLC Project
+Humber College PLC Project
