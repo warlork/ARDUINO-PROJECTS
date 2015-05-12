@@ -1,2 +1,2 @@
 # Ceng604
-Humber College PLC-LRC Project
+Humber College PCL-LRC Project
